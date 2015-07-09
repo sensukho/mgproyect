@@ -1,4 +1,0 @@
-services:
-#    magento_site.example:
-#        class: Magento\Bundle\SiteBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]
